@@ -23,9 +23,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Paris, FR"
   date_start = "2015"
-  date_end = 
+  date_end = ""
   description = """
-  Responsibilities include: ""
+  Responsibilities include: """
 
 
 +++
