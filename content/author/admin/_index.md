@@ -23,10 +23,10 @@ email = "alison.tebo@ens.fr"
 
 # List (academic) interests or hobbies
 # interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
-]
+  # "Artificial Intelligence",
+  # "Computational Linguistics",
+ #  "Information Retrieval"
+# ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
