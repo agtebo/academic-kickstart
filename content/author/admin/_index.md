@@ -43,13 +43,13 @@ interests = [
   course = "Ph.D. in Chemical Biology"
   institution = "University of Michigan"
   year = 2015
-  iconed =  "/static/img/UofM.png"
+  iconed =  "/~agtebo/static/img/UofM.png"
 
 [[education.courses]]
   course = "B.S. Biochemistry"
   institution = "University of California, Los Angeles"
   year = 2010
-  iconed =  "/UCLA.png"
+  iconed =  "/~agtebo/static/img/UCLA.png"
 
 
 # Social/Academic Networking
