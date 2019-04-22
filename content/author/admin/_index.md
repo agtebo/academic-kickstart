@@ -86,4 +86,5 @@ interests = [
 
 +++
 
-blah blah about me 
+I am currently a postdoctoral researcher in the lab of [Dr. Arnaud Gautier](http://www.arnaudgautier.com) where I use protein engineering techniques to develop new chemical-genetic tagging systems for fluorescence microscopy. I received my Ph.D. in Chemical Biology under the supervision of [Pr. Vincent Pecoraro](https://sites.lsa.umich.edu/pecoraro-lab/) at the [University of Michigan](http://www.chembio.umich.edu/), where I used *de novo* protein design to study structure-function relationships in metalloproteins.
+
