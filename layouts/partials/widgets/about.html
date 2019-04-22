@@ -93,8 +93,12 @@
         <h3>Education and training</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
-          <li>
-            <i class="iconed"></i>
+         <!-- <li> -->
+         	{{ if .iconed }}
+            <img src= "{{ $.Site.BaseURL }}img/{{ .iconed }}" style ="height:1rem; float: left; padding-right: 10px;"> 
+            {{ else }}
+            <i class ="fa-li fa fa-graduation-cap"></i>
+            {{ end }}
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
