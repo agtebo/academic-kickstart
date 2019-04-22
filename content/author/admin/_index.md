@@ -23,10 +23,10 @@ email = "alison.tebo@ens.fr"
 
 # List (academic) interests or hobbies
 # interests = [
-  # "Artificial Intelligence",
-  # "Computational Linguistics",
- #  "Information Retrieval"
-# ]
+  "Protein Engineering",
+  "Metals in Biology",
+  "Bioimaging"
+]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -43,13 +43,13 @@ email = "alison.tebo@ens.fr"
   course = "Ph.D. in Chemical Biology"
   institution = "University of Michigan"
   year = 2015
-  iconed = "static/img/UofM.png"
+  iconed = "/static/img/UofM.png"
 
 [[education.courses]]
   course = "B.S. Biochemistry"
   institution = "University of California, Los Angeles"
   year = 2010
-  iconed = "UCLA.png"
+  iconed = "/UCLA.png"
 
 
 # Social/Academic Networking
