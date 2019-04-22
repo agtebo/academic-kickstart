@@ -88,7 +88,7 @@
       </div>
       {{ end }}
 
-      {{ with $person.education }}
+      {{ with $person.education and training }}
       <div class="col-md-7">
         <h3>{{ i18n "education and training" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
