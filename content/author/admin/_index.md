@@ -37,7 +37,7 @@ interests = [
   course = "Postdoc"
   institution = "École Normale Supérieure"
   year = "2015-present"
-  {{< figure library="1" src="logo_ens_psl.png">}}
+  iconed =  "img/logo_ens_psl.png"
   
 [[education.courses]] 
   course = "Ph.D. in Chemical Biology"
