@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Paris, FR"
   date_start = "2015-07-01"
   date_end = ""
-  description = """
+  description = ""
 
 
 
@@ -35,6 +35,6 @@ date_format = "Jan 2006"
   location = "Ann Arbor, MI, USA"
   date_start = "2010-07-01"
   date_end = "2015-05-31"
-  description = """
+  description = ""
  
 +++
