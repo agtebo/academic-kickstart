@@ -22,7 +22,7 @@ bio = ""
 email = "alison.tebo@ens.fr"
 
 # List (academic) interests or hobbies
-# interests = [
+interests = [
   "Protein Engineering",
   "Metals in Biology",
   "Bioimaging"
