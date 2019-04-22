@@ -34,14 +34,22 @@ email = "alison.tebo@ens.fr"
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
+  course = "Postdoc"
+  institution = "École Normale Supérieure"
+  year = "2015-present"
+  iconed = logo_ens_psl.png
+  
+[[education.courses]] 
   course = "Ph.D. in Chemical Biology"
   institution = "University of Michigan"
   year = 2015
+  iconed = UoM.png
 
 [[education.courses]]
   course = "B.S. Biochemistry"
   institution = "University of California, Los Angeles"
   year = 2010
+  iconed = UCLA.png
 
 
 # Social/Academic Networking
