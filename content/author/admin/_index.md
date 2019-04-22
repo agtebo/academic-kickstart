@@ -43,7 +43,7 @@ email = "alison.tebo@ens.fr"
   course = "Ph.D. in Chemical Biology"
   institution = "University of Michigan"
   year = 2015
-  iconed = "UoM_square.png"
+  iconed = "content/author/admin/UoM_square.png"
 
 [[education.courses]]
   course = "B.S. Biochemistry"
