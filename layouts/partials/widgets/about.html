@@ -93,7 +93,7 @@
         <h3>Education and training</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}
-         <!-- <li> -->
+         <li>
          	{{ if .iconed }}
             <img src= "{{ $.Site.BaseURL }}img/{{ .iconed }}" style ="height:1rem; float:left;"> 
             {{ else }}
@@ -103,7 +103,7 @@
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
-          <!-- </li> -->
+          </li>
           {{ end }}
         </ul>
       </div>
