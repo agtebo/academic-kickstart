@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2015-07-01"
   date_end = ""
   description = """
-  # Responsibilities include: """
+  
 
 [[experience]]
   title = "Graduate Student"
@@ -35,5 +35,5 @@ date_format = "Jan 2006"
   date_start = "2010-07-01"
   date_end = "2015-05-31"
   description = """
-  # Responsibilities include: """
+ 
 +++
