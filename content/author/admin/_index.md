@@ -37,19 +37,19 @@ interests = [
   course = "Postdoc"
   institution = "École Normale Supérieure"
   year = "2015-present"
-  iconed =  "img/logo_ens_psl.png"
+  iconed =  "/iconed/ENS.png"
   
 [[education.courses]] 
   course = "Ph.D. in Chemical Biology"
   institution = "University of Michigan"
   year = 2015
-  iconed =  "img/UofM.png"
+  iconed =  "/iconed/UM.png"
 
 [[education.courses]]
   course = "B.S. Biochemistry"
   institution = "University of California, Los Angeles"
   year = 2010
-  iconed =  "img/UCLA.png"
+  iconed =  "/iconed/UCLA_square.png"
 
 
 # Social/Academic Networking
