@@ -4,4 +4,5 @@ authors = ["Ruikang Zhang", "Raja Chouket", "**Alison G Tebo**", "Marie-Aude Pla
 publication_types = ["2"] 
 abstract = "" 
 featured = false 
-publication = "*Optica Just Accepted*" +++
+publication = "*Optica Just Accepted*" 
++++
