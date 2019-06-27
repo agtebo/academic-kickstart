@@ -24,8 +24,9 @@ email = "alison.tebo@ens.fr"
 # List (academic) interests or hobbies
 interests = [
   "Protein Engineering",
-  "Metals in Biology",
-  "Bioimaging"
+  "Chemical Biology",
+  "Bioimaging",
+  "Metals in Biology"
 ]
 
 # Organizational groups that you belong to (for People widget)
