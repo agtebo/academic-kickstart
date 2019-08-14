@@ -6,5 +6,5 @@ abstract = "Fiber-optic epifluorescence imaging with one-photon excitation benef
 featured = false 
 publication = "*Optica*" 
 # Links (optional).
-url = "https://www.osapublishing.org/optica/abstract.cfm?uri=optica-6-8-972"
+url = "http://www.osapublishing.org/optica/abstract.cfm?uri=optica-6-8-972"
 +++
