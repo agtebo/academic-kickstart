@@ -26,7 +26,6 @@ interests = [
   "Protein Engineering",
   "Chemical Biology",
   "Bioimaging",
-  "Metals in Biology"
 ]
 
 # Organizational groups that you belong to (for People widget)
