@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Postdoctoral Researcher"
+role = "Group Leader"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "École Normale Supérieure", url = "www.chimie.ens.fr" } ]
+organizations = [ { name = "Janelia Research Campus", url = "www.janelia.org" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -86,5 +86,5 @@ interests = [
 
 +++
 
-I am currently a postdoctoral researcher in the lab of [Dr. Arnaud Gautier](http://www.arnaudgautier.com) where I use protein engineering techniques to develop new chemical-genetic tagging systems for fluorescence microscopy. I received my Ph.D. in Chemical Biology under the supervision of [Pr. Vincent Pecoraro](https://sites.lsa.umich.edu/pecoraro-lab/) at the [University of Michigan](http://www.chembio.umich.edu/), where I used *de novo* protein design to study structure-function relationships in metalloproteins.
+I am currently a Group Leader at [Janelia Research Campus](https://www.janelia.org/lab/tebo-lab) in Molecular Tools and Imaging. Formerly, I was a postdoctoral researcher in the lab of [Dr. Arnaud Gautier](http://www.arnaudgautier.com) where I used protein engineering techniques to develop new chemical-genetic tagging systems for fluorescence microscopy. I received my Ph.D. in Chemical Biology under the supervision of [Pr. Vincent Pecoraro](https://sites.lsa.umich.edu/pecoraro-lab/) at the [University of Michigan](http://www.chembio.umich.edu/), where I used *de novo* protein design to study structure-function relationships in metalloproteins.
 
